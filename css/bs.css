@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+
+html{
+    height:100%;
+}
+
+body{
+    display:flex;
+    height:100%;
+    margin:0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    display: flex;
+}
+
+.Bandeau_header2{
+    height:22%;
+    background: #eda2c0;
+    display:flex;
+    letter-spacing: .5rem;
+    font-family: "Updock", "Sans sherif";
+    justify-content:space-between;
+}
+
+#titre1_1{
+    color: #143642 ;
+    margin:.02rem 0.5rem 0 4rem;
+    text-shadow: .05rem .05rem #0b2833;
+}
+
+#bs_img1{
+    margin-top:4rem;
+    border:#0b2833 solid .1rem;
+    width:20%;
+    margin:1%;
+}
+
+#prez_Plani{
+    margin-top: 4rem;
+    margin-right:10rem;
+    border: #990D35 solid .2rem;
+}
+
+#contrib{
+    margin-top: 4rem;
+    margin-right: 10rem;
+    background-color: #0F1400;
+    color:#f69b09;
+    text-align: center;
+}
+
+#contrib_detail{
+    margin-left:10rem;
+}
+.marge{
+    margin-top: 2rem;
+}
+
+.rouge{
+    color: #990D35;
+}
+.fil{
+    margin-top:4rem;
+}
