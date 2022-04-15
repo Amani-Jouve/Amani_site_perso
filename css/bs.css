@@ -10,7 +10,6 @@ body{
     margin:0;
     margin-left: 1rem;
     margin-right: 1rem;
-    display: flex;
 }
 
 .Bandeau_header2{
@@ -24,7 +23,7 @@ body{
 
 #titre1_1{
     color: #143642 ;
-    margin:.02rem 0.5rem 0 4rem;
+    margin:2rem 1rem 0 4rem;
     text-shadow: .05rem .05rem #0b2833;
 }
 
@@ -61,4 +60,10 @@ body{
 }
 .fil{
     margin-top:4rem;
+}
+
+footer{
+    margin-top: 4rem;
+    color:#eda2c0;
+    background-color: #143642;
 }
